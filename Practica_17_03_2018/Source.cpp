@@ -13,6 +13,8 @@ void main() {
 	char as[50];
 	printf("¬ведите строку: ");
 
+	sdfgsd
+
 	char *pt = gets_s(as);
 
 	puts(as);
